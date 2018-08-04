@@ -1,3 +1,4 @@
-# Monk language support in Atom
 
-Adds syntax highlighting to Monk files in Atom.
+# Monk Syntax Highlighting
+
+A syntax highlighting package for Atom.
